@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyfelete",
+        "uuid": 2789528,
+        "checksum": "4ngkr"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
